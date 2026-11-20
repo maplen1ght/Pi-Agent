@@ -14,10 +14,6 @@
 
 ### 任务一 本地安装并启动
 
-- 安装方式：官方 `install.ps1` 自托管安装
-- 安装位置：`C:\Users\10742\.pi\agent\`
-- 版本：1.5.2，底部状态栏显示工作目录 `D:\pi-test`
-
 <img width="1730" height="923" alt="S1" src="https://github.com/user-attachments/assets/f6b0f415-6c75-48d8-bdde-7161eb59e0f2" />
 
 ### 任务二 配置模型并完成一次会话
