@@ -14,35 +14,35 @@
 
 ### 任务一 本地安装并启动
 
-<img width="1730" height="923" alt="S1" src="https://github.com/user-attachments/assets/f6b0f415-6c75-48d8-bdde-7161eb59e0f2" />
+![S1](../assets/01/S1.png)
 
 ### 任务二 配置模型并完成一次会话
 
 使用 DeepSeek API Key 方式登录。
 
-<img width="1730" height="923" alt="S2" src="https://github.com/user-attachments/assets/6b5bcdfd-1749-4120-8420-2ef228840016" />
+![S2](../assets/01/S2.png)
 
 ### 任务三 切换模型与思考级别
 
-<img width="1728" height="924" alt="S3-1" src="https://github.com/user-attachments/assets/c9bfc397-bd1b-4a14-bfa6-12a064574721" />
+![S3-1](../assets/01/S3-1.png)
 
-<img width="1728" height="924" alt="S3-2" src="https://github.com/user-attachments/assets/75e904e7-93b2-4041-ae00-be5bc4818787" />
+![S3-2](../assets/01/S3-2.png)
 
 ### 任务四 引用代码并粘贴小图片
 
 **A 使用 @ 引用代码文件**
 
-<img width="2559" height="1527" alt="S4" src="https://github.com/user-attachments/assets/61d201e1-3842-4623-b74b-7a6dd542568d" />
+![S4](../assets/01/S4.png)
 
 
 **B 粘贴小图片并测试**
 
-<img width="1629" height="840" alt="S5" src="https://github.com/user-attachments/assets/b98cbb7b-5be7-4322-a7d3-4fdb66be27e9" />
+![S5](../assets/01/S5.png)
 
 
 原始测试图片：
 
-<img width="200" height="200" alt="blue-square-7" src="https://github.com/user-attachments/assets/ea141c6e-684d-4f44-b54c-bf2eb9e933b8" />
+![blue-square-7](../assets/01/blue-square-7.png)
 
 
 ### 任务五 安装并使用一个插件
@@ -55,7 +55,7 @@
 | 作用 | 网页搜索、URL 抓取、GitHub 仓库克隆、PDF 提取、视频理解 |
 | 所需配置 | 零配置可用（默认 Exa MCP），可选配置各家搜索 API key |
 
-<img width="1730" height="923" alt="S6" src="https://github.com/user-attachments/assets/ea09f10b-a9d5-4cea-b64e-ff0a3c4e98ed" />
+![S6](../assets/01/S6.png)
 
 ### 任务六 安装 PPT Skill（选做）
 
@@ -65,6 +65,6 @@
 | 文件数 | 59 个 |
 | 源 commit | e4bb5d960d87126ff3b3a8af1a104b7db67560ba |
 
-<img width="1440" height="968" alt="S7" src="https://github.com/user-attachments/assets/385c710c-623b-4aac-8662-9c51f6523b41" />
+![S7](../assets/01/S7.png)
 
-<img width="2559" height="1527" alt="S8" src="https://github.com/user-attachments/assets/933ce567-7f29-4f5f-bdce-aa091bbabf88" />
+![S8](../assets/01/S8.png)
